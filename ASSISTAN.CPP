@@ -1,5 +1,4 @@
-/* Personal Digital Assistant version 2.0
-(Beta version->Work in progress)
+/* Personal Digital Assistant version 2.0.0
 by Raghav Singh.
 */
 
